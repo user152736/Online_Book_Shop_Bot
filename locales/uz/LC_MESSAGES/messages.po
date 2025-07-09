@@ -1,0 +1,219 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-11-08 20:52+0500\n"
+"PO-Revision-Date: 2024-11-08 21:58+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: bot/baskets/basket.py:20
+msgid "Jami: {all_sum} so'm"
+msgstr ""
+
+#: bot/baskets/basket.py:28 bot/handlers/handler.py:73
+#: bot/handlers/handler.py:78
+msgid "Categoriyalardan birini tanlang 👇🏻"
+msgstr ""
+
+#: bot/baskets/basket.py:68
+msgid "Eng kamida 1 ta kitob buyurtma qilishingiz mumkin! 😊"
+msgstr ""
+
+#: bot/baskets/basket.py:80
+msgid "❌ Savatni tozalash"
+msgstr ""
+
+#: bot/baskets/basket.py:81
+msgid "✅ Buyurtmani tasdiqlash"
+msgstr ""
+
+#: bot/baskets/basket.py:82 bot/handlers/handler.py:112
+msgid "◀️ orqaga"
+msgstr ""
+
+#: bot/baskets/orders.py:26
+msgid ""
+"🔢 Buyurtma raqami: <b>{name}</b>\n"
+"📆 Buyurtma qilingan sana: <b>{date_time}</b>\n"
+"🟣 Buyurtma holati: <b>{order_status}</b>\n"
+msgstr ""
+
+#: bot/baskets/orders.py:60
+msgid "📞 Telefon raqam"
+msgstr ""
+
+#: bot/baskets/orders.py:64
+msgid "Telefon raqamingizni qoldiring (📞 Telefon raqam tugmasini bosing): 👇🏻"
+msgstr ""
+
+#: bot/baskets/orders.py:70
+msgid "📞 Raqamingiz qabul qilindi. Tashakkur!"
+msgstr ""
+
+#: bot/baskets/orders.py:78
+msgid ""
+"Telefon raqamingizni olishda xatolik yuz berdi. Iltimos, qayta urinib "
+"ko'ring."
+msgstr ""
+
+#: bot/baskets/orders.py:84 bot/baskets/orders.py:120
+msgid "❌ Yo'q"
+msgstr ""
+
+#: bot/baskets/orders.py:85 bot/baskets/orders.py:124
+msgid "✅ Ha"
+msgstr ""
+
+#: bot/baskets/orders.py:95
+msgid "❌ Bekor qilindi"
+msgstr ""
+
+#: bot/baskets/orders.py:130
+msgid "Foydalanuvchi"
+msgstr ""
+
+#: bot/baskets/orders.py:133
+msgid "Admin list is empty; unable to notify admin."
+msgstr ""
+
+#: bot/baskets/orders.py:148
+msgid ""
+"✅ Hurmatli mijoz! Buyurtmangiz uchun tashakkur.\n"
+"Buyurtma raqami: {orders_num}"
+msgstr ""
+
+#: bot/baskets/orders.py:165
+msgid "<i>🎉 Sizning {order_num} raqamli buyurtmangizni admin qabul qildi.</i>"
+msgstr ""
+
+#: bot/baskets/orders.py:180
+msgid "🤷‍♂️ Sizda hali buyurtmalar mavjud emas. Yoki bekor qilingan"
+msgstr ""
+
+#: bot/baskets/orders.py:184
+msgid "❌ bekor qilish"
+msgstr ""
+
+#: bot/handlers/commands.py:24
+msgid "Botni ishga tushirish 🫡"
+msgstr ""
+
+#: bot/handlers/commands.py:25
+msgid "Yordam 📖"
+msgstr ""
+
+#: bot/handlers/commands.py:26
+msgid "Tilni almashtirish 🔄"
+msgstr ""
+
+#: bot/handlers/handler.py:18
+msgid "Assalomu alaykum! Tanlovingiz 👇🏻."
+msgstr ""
+
+#: bot/handlers/handler.py:26
+msgid ""
+"Assalomu alaykum! \n"
+"Xush kelibsiz!"
+msgstr ""
+
+#: bot/handlers/handler.py:33
+msgid ""
+"Buyruqlar:\n"
+"/start - Botni ishga tushirish 🫡\n"
+"/help - Yordam 📖\n"
+"/language - Tilni almashtirish 🔄"
+msgstr ""
+
+#: bot/handlers/handler.py:41
+msgid "Tilni tanlang  👇🏻"
+msgstr ""
+
+#: bot/handlers/handler.py:54
+msgid "Uzbek"
+msgstr ""
+
+#: bot/handlers/handler.py:55
+msgid "English"
+msgstr ""
+
+#: bot/handlers/handler.py:56
+msgid "Turk"
+msgstr ""
+
+#: bot/handlers/handler.py:57
+msgid "Rus"
+msgstr ""
+
+#: bot/handlers/handler.py:58
+msgid "Korean"
+msgstr ""
+
+#: bot/handlers/handler.py:60
+msgid "Til"
+msgstr ""
+
+#: bot/handlers/handler.py:61
+msgid "{lang} tili tanlandi"
+msgstr ""
+
+#: bot/handlers/handler.py:62
+msgid "Assalomu alaykum! Tanlang."
+msgstr ""
+
+#: bot/handlers/handler.py:88
+msgid ""
+"\n"
+"\n"
+"\n"
+"\n"
+"Telegram: @Mexmonjonovuz\n"
+"\n"
+"📞  +{number}\n"
+"\n"
+"🤖 Bot Mexmonjonov Asadbek @Mexmonjonovuz tomonidan tayorlandi.\n"
+msgstr ""
+
+#: bot/keyboards/buttons.py:43
+msgid "🔍 Qidirish"
+msgstr ""
+
+#: bot/keyboards/buttons.py:58
+msgid "◀️Orqaga"
+msgstr ""
+
+#: bot/keyboards/buttons.py:59
+msgid "🛒 Savatga qo'shish"
+msgstr ""
+
+#: bot/keyboards/buttons.py:65
+msgid "📚 Kitoblar"
+msgstr ""
+
+#: bot/keyboards/buttons.py:66
+msgid "📃 Mening buyurtmalarim"
+msgstr ""
+
+#: bot/keyboards/buttons.py:67
+msgid "🔵 Biz ijtimoyi tarmoqlarda"
+msgstr ""
+
+#: bot/keyboards/buttons.py:68
+msgid "📞 Biz bilan bog'lanish"
+msgstr ""
+
+#: bot/keyboards/buttons.py:69
+msgid "🌐 Tilni almshtirish"
+msgstr ""
+
